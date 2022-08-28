@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crepzter
 - 👀 I’m interested in Discord-Bots, Minecraft-Modding, Java in General and Physics Engines
-- 🌱 I’m currently trying learning C++
+- 🌱 I’m currently learning C++
 - 📫 How to reach me ...
 
 <!---
